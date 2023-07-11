@@ -1,16 +1,8 @@
-<p align="left">
-  <img src="http://madvr.com/logo.png" alt="madVR Logo" width="200" />
-</p>
+# madVR
 
-<h1 align="left">madVR</h1>
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-v0.92.17-blue)](http://madshi.net/madVR.zip)
 
-<p align="left">
-  <a href="http://madshi.net/madVR.zip">
-    <img src="https://img.shields.io/badge/Latest%20Release-v0.92.17-blue" alt="Latest Release" />
-  </a>
-</p>
-
-**madVR** is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.
+madVR is a DirectShow video renderer used by hundreds of thousands of home theater enthusiasts around the world.
 
 Designed as a no-compromise approach, madVR delivers the ultimate video playback quality that no enthusiast should be without.
 
@@ -39,7 +31,8 @@ Calibration products supporting madVR (sorted alphabetically):
 - dispcalGUI
 - HCFR
 
-Features:
+## Features
+
 - High bitdepth processing (32bit per component)
 - High-quality algorithms for scaling, sharpening, debanding, dithering, etc.
 - Smooth motion playback without 3:2 pulldown judder even at 60Hz
@@ -48,7 +41,8 @@ Features:
 - Very reliable playback using automatic fullscreen exclusive mode
 - And many more...
 
-Requirements:
+## Requirements
+
 - GPU with full D3D9 / PS3.0 hardware support
 
 ## :warning: Disclaimer
@@ -56,4 +50,3 @@ Requirements:
 :information_source: This repository serves as a guide or link to madVR, which is a part of the ultimate media playback stack, including PotPlayer, LAV Filters, XySubFilter, madVR, and ASIO. It provides information and resources to help users set up and optimize their media playback experience. I do not own the mentioned software components, and I am not responsible for their creation, maintenance, or any issues that may arise from their usage. Please refer to the respective official websites for PotPlayer, LAV Filters, XySubFilter, madVR, and ASIO for more information and support.
 
 The official website for madVR can be found at [madvr.com](http://madvr.com).
-
